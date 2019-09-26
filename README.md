@@ -3,6 +3,7 @@
 ## Description
 
 * Writing R script to generate PAM250 from PAM1.
+* PAM250 must be as a log odds matrix, not the format of the given PAM1 matrix
 * Creating your own R script, hw1_yourStudentID.R , ie. hw1_105753026.R, to read pam1.txt and output pam250.txt.
 * PAM250 in the slide has been scaled such that its column sum = 100.
 
@@ -28,7 +29,7 @@ Rscript hw1_studentID.R input_path_pam1.txt output_path_pam250.txt
 * Post-process PAM250: +2
 * Correct output format: +2
 * Output without quotation marks "": +2
-* Round to the nearest whole number: +2
+* Round to the nearest integer number: +2
 
 ### Penalty
 
