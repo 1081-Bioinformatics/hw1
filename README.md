@@ -2,10 +2,10 @@
 
 ## Description
 
-* Writing R script to generate PAM250 from PAM1.
-* PAM250 must be as a log odds matrix, not the format of the given PAM1 matrix
-* Creating your own R script, hw1_yourStudentID.R , ie. hw1_105753026.R, to read pam1.txt and output pam250.txt.
-* PAM250 in the slide has been scaled such that its column sum = 100.
+* Writing R script to generate PAM250 from the given mutation probability matrix.
+* PAM250 must be as a log odds and complete square matrix, not the format of the given mutation probability matrix.
+* Creating your own R script, hw1_yourStudentID.R , ie. hw1_105753026.R, to read mut.txt and output pam250.txt.
+* [HINT] PAM250 is a symmetric matrix even the given mutation probability matrix is not.
 
 ## File
 
