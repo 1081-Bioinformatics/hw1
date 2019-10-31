@@ -10,7 +10,7 @@
 ## File
 
 * hw1_ref.R: You can start from this reference code, and try to write your own comment in English
-* pam1.txt: Point Accepted Mutation Matrix
+* mut.txt: the mutation probability matrix
 
 ## Command
 
